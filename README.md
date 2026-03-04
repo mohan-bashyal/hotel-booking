@@ -19,12 +19,6 @@ Key engineering outcomes:
 - Designed notification escalation flow (`staff -> admin -> super_admin`) with priority-based action rules.
 - Scoped all hotel operations to assigned hotel context for data isolation.
 
-## Live Demo and Repository
-
-- Live Demo: `<add-live-demo-url>`
-- GitHub Repository: `<add-github-repo-url>`
-- Demo Video (optional): `<add-demo-video-url>`
-
 ## My Contributions
 
 - Designed and implemented role-based authentication flow and dashboard redirection.
